@@ -1,3 +1,4 @@
+// Used to practice git commands
 #include <stdio.h>
 
 int main()
